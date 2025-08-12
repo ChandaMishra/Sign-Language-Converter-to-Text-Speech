@@ -46,6 +46,14 @@ Built using Tkinter with the following features:
 ├── model-bw.weights.h5 # Trained Keras model
 ├── best_model.h5
 ├── model-bw.json # Model architecture in JSON format
+
+
+*###Demo Video*
+https://drive.google.com/file/d/16yT3klPjl3PsZSrgbyzHKy-9Tp2QJMB_/view?usp=sharing
+
+
+
+
 ### 🆕 Unique Aspects
 - **Skeleton-Based Image Generation**: Uses structured 2D skeleton lines instead of raw RGB images, improving generalization and reducing noise.
 - **Hands-Free Control**: Users can insert space or backspace via gestures, making it usable by people with limited keyboard access.
